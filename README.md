@@ -29,14 +29,3 @@
 
 ***
 
-<br />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/#550/count.svg" />
-</p>
-
------
-Credits: [#550](https://github.com/#550)
-
-Last Edited on: 01/01/2025
